@@ -1,0 +1,11 @@
+.fgsuccessful {
+    padding-top: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fgsuccessful_button {
+    padding-top: 10px;
+}
